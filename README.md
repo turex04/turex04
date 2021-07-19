@@ -2,7 +2,7 @@
 
 Software developer specializing in Full Stack Web Development
 
-- 🔭 I’m currently working on Javascript - Mostly React, GraphQL, NextJS
+- 🔭 Building things in Javascript - Mostly React, GraphQL, NextJS
 
 <!--
 **turex04/turex04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
